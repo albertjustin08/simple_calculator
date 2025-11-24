@@ -118,8 +118,8 @@ Resets the calculator to its initial state, clearing all inputs and results.
 ### Decimal Support
 Allows for decimal number calculations with proper validation to prevent multiple decimal points.
 
-### Order of Operations
-Follows standard mathematical order (PEMDAS/BODMAS) for accurate calculations.
+### Calculation Flow
+Performs operations in sequence as entered (left-to-right evaluation) for straightforward calculations.
 
 ### Error Handling
 - Division by zero protection
@@ -159,7 +159,7 @@ Potential features to add:
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source. Feel free to use, modify, and distribute as needed.
 
 ## 👤 Author
 
